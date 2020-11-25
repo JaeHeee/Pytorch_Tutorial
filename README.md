@@ -13,7 +13,7 @@
 
 | Num.|Name|Code|
 |:---:|---|:---:|
-| 1 | What is Pytorch? | [Code](https://github.com/JaeHeee/Pytorch_Tutorial/commit/8fca4e52ef0645bd611d4b08ab5cf5857d2c148c) |
+| 1 | What is Pytorch? | [Code](https://github.com/JaeHeee/Pytorch_Tutorial/blob/main/code/What_is_Pytorch.ipynb) |
 | 2 | AUTOGRAD: AUTOMATIC DIFFERENTIATION | [Code](https://github.com/JaeHeee/Pytorch_Tutorial/blob/main/code/AUTOGRAD_AUTOMATIC_DIFFERENTIATION.ipynb) |
 | 3 | NEURAL NETWORKS | [Code](https://github.com/JaeHeee/Pytorch_Tutorial/blob/main/code/NEURAL_NETWORKS.ipynb) |
 | 4 | TRAINING A CLASSIFIER | [Code](https://github.com/JaeHeee/Pytorch_Tutorial/blob/main/code/TRAINING_A_CLASSIFIER.ipynb) |
