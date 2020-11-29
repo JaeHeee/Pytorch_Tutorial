@@ -28,6 +28,7 @@
 | 13 | WHAT IS TORCH.NN REALLY? | [Code](https://github.com/JaeHeee/Pytorch_Tutorial/blob/main/code/WHAT_IS_TORCH_NN_REALLY%3F.ipynb) |
 | 14 | VISUALIZING MODELS, DATA, AND TRAINING WITH TENSORBOARD | [Code](https://github.com/JaeHeee/Pytorch_Tutorial/blob/main/code/VISUALIZING_MODELS%2C_DATA%2C_AND_TRAINING_WITH_TENSORBOARD.ipynb) |
 | 15 | TRANSFER LEARNING FOR COMPUTER VISION TUTORIAL | [Code](https://github.com/JaeHeee/Pytorch_Tutorial/blob/main/code/TRANSFER_LEARNING_FOR_COMPUTER_VISION_TUTORIAL.ipynb) |
+| 16 | TORCHVISION OBJECT DETECTION FINETUNING TUTORIAL | [Code](https://github.com/JaeHeee/Pytorch_Tutorial/blob/main/code/TORCHVISION_OBJECT_DETECTION_FINETUNING_TUTORIAL.ipynb) |
 
 <br>
 
